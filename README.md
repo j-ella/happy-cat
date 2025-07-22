@@ -1,9 +1,9 @@
-# Kattartikeln – Ett Git-samarbetsprojekt 
+# 🐱 Katten - Människans bästa vän
 
-Välkommen till vårt gemensamma projekt där vi skriver och förbättrar en artikel om katter – samtidigt som vi lär oss Git och GitHub!  
+Välkommen till vårt gemensamma projekt där vi skriver och underhåller en artikel om katter – samtidigt som vi lär oss Git och GitHub!  
 Här kombinerar vi teknik och kärlek för våra små pälsbollar
 
-## Innehåll
+## 📄 Innehåll
 
 Artikeln heter **"Allt du behöver veta om katter"** och innehåller:
 
@@ -13,7 +13,7 @@ Artikeln heter **"Allt du behöver veta om katter"** och innehåller:
 - Innekatt vs utekatt  
 - Roliga kattfakta  
 
-## Syfte
+## 🎯 Syfte
 
 Projektets mål är att:
 
@@ -22,10 +22,10 @@ Projektets mål är att:
 - Träna på samarbete och versionshantering  
 - Ha kul och skriva om något vi älskar – katter!
 
-## Hur du bidrar
+## 🛠️ Hur du bidrar
 
 1. **Forka** detta repo (eller klona det om du har access).  
 2. Skapa en **ny branch** för din ändring:  
 
    ```bash
-   git checkout -b feature/förbättring-av-text
+   git checkout -b branch_namn
